@@ -29,19 +29,19 @@ A **real-time attendance system** that uses **face recognition** to automaticall
 
 1. Clone the repository:
 
-# bash
+```bash
 git clone https://github.com/username/face-recognition-attendance.git
 cd face-recognition-attendance
-
+```
 # Required Packages
-
+```
 pip install cmake
 pip install dlib
 pip install face_recognition
 pip install opencv-python
 pip install numpy
 pip install Pillow
-
+```
 # Project Structure
 
 ```text
@@ -56,6 +56,6 @@ Face_Recognition_Attendance/
 
 Note: Add the images of people you want to recognize inside the faces/ folder.
       The filename will be used as the display name.
-
+```
 # Run Python file
   python main.py
