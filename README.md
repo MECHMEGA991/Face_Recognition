@@ -58,4 +58,5 @@ Note: Add the images of people you want to recognize inside the faces/ folder.
       The filename will be used as the display name.
 ```
 # Run Python file
+```
   python main.py
