@@ -44,6 +44,7 @@ pip install Pillow
 
 # Project Structure
 
+```text
 Face_Recognition_Attendance/
 │
 ├── faces/                 # Folder containing known face images
